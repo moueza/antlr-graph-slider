@@ -1,2 +1,3 @@
-# antlr-graph-slider
-From https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
+Testing the installation
+.jar to /usr.....
+. java -jar /usr/local/lib/antlr-4.9-complete.jar -o . -lib .
